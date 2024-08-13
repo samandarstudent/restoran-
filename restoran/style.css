@@ -1,0 +1,29 @@
+header{
+    background-image: url('https://kartinki.pics/uploads/posts/2022-03/1648040197_33-kartinkin-net-p-kartinki-restoranov-36.jpg');
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-position: center;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: rgb(0, 242, 247);
+    font-size: ;
+}
+h2{
+    background-color: cadetblue;
+    text-align: center;
+}
+table,th,td{
+    border: 1px solid white ;
+}
+th{
+    background-color: aqua;\
+    padding: 5px;
+}
+td{
+    background-color: aqua;
+    padding: 5px:
+}
